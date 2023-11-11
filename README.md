@@ -1,0 +1,1 @@
+# Readme dosyasina yazilan bilgiler
